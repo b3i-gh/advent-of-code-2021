@@ -8,3 +8,4 @@ all of the exercises will be done in js; I'll try to track the resolution time o
 3. Part 1: ~15m - Part 2: ~1h
 4. Part 1: ~2h50m - Part 2: ~40m
 5. Part 1: ~2h - Part 2: ~1h30m
+6. Part 1: ~15m - Part 2: ~15m
