@@ -14,3 +14,4 @@ all of the exercises will be done in js; I'll try to track the resolution time o
 9. Part 1: ~35m - Part 2: ~1h10m
 10. Part 1: ~40m - Part 2: ~40m
 11. Part 1: ~2h - Part 2: ~30m
+12. Part 2: ~1.30 con aiuto - Part 2 1 ora e tre quarti senza capire niente
