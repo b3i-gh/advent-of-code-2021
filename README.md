@@ -16,6 +16,4 @@ all of the exercises will be done in js; I'll try to track the resolution time o
 11. Part 1: ~2h - Part 2: ~30m
 12. Part 1: ~1.30 Part 2: !TODO
 13. Part 1: ~2h - Part 2: ~20m
-14. Part 1: ~30 min - Part 2: già due ore
-
-commit: day 14 completed. easy part 1 with some help to get quickly the charCounts method. part 2 is focused on a smart way to count the chars without storing the entire string
+14. Part 1: ~30 min - Part 2: 2h10m
