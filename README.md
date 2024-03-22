@@ -23,4 +23,5 @@ all of the exercises will be done in js; I'll try to track the resolution time o
 18. Part 1: ∞h - Part 2: ∞h
 19. Part 1: ∞h - Part 2: ∞h
 20. Part 1: ~1h.45m - Part 2: ~25m
-21. Part 1: ~10m - Part2. ~2h
+21. Part 1: ~10m - Part2: ~2h
+22. Part 2: ~25m - Part2: ~2h
